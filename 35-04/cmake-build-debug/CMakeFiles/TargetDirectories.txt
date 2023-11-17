@@ -1,0 +1,3 @@
+C:/Users/AmirHossein Shirazi/Documents/GitHub/cpp-projects-AmirHossein-Shirazi-40216341054470/35-04/cmake-build-debug/CMakeFiles/35_04.dir
+C:/Users/AmirHossein Shirazi/Documents/GitHub/cpp-projects-AmirHossein-Shirazi-40216341054470/35-04/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/AmirHossein Shirazi/Documents/GitHub/cpp-projects-AmirHossein-Shirazi-40216341054470/35-04/cmake-build-debug/CMakeFiles/rebuild_cache.dir
